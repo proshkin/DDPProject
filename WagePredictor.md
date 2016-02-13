@@ -2,6 +2,9 @@ Wage Predictor
 ========================================================
 author: Igor Proshkin
 date: 2/12/2016
+[github.com/proshkin/DDPProject] (https://github.com/proshkin/DDPProject)
+
+
 
 Wage date from ISLR package
 ========================================================
